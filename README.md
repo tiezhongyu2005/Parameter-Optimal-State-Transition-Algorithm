@@ -1,4 +1,4 @@
-# parameter-optimal-state-transition-algorithm (POSTA)
+# Parameter-Optimal-State-Transition-Algorithm (POSTA)
 State transition algorithm (STA) is a new metaheuristic method, which is used for global optimization with box constraints without the derivative information.  
 $\min f(x)$  
 $\mathrm{s.t.}  x_{lb} \leq x \leq x_{ub}$  
